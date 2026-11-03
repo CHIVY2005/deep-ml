@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T14:52:40.652Z",
+  "generated_at": "2026-11-03T16:39:13.879Z",
   "items": {
     "problem:22": {
       "kind": "problem",
@@ -76,6 +76,19 @@
       "path": "problems/0005-scalar-multiplication-of-a-matrix",
       "first_solved_at": "2026-11-01T14:52:14.326Z",
       "last_pushed_at": "2026-11-01T14:52:38.755Z",
+      "language": "python",
+      "lines": 9
+    },
+    "problem:23": {
+      "kind": "problem",
+      "id": "23",
+      "title": "Softmax Activation Function Implementation ",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/23",
+      "path": "problems/0023-softmax-activation-function-implementation",
+      "first_solved_at": "2026-11-03T16:39:11.406Z",
+      "last_pushed_at": "2026-11-03T16:39:11.406Z",
       "language": "python",
       "lines": 9
     }
